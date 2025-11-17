@@ -1,3 +1,8 @@
+Renommer le .gitignore.example en .gitignore 
+Mettre les csv dans le repo cloné en local
+
+
+
 # R5.C.06 - Analyse Décisionnelle
 
 ## 🧩 Objectif général
