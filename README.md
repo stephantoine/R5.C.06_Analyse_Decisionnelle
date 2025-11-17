@@ -1,4 +1,4 @@
-# Projet
+# R5.C.06 - Analyse Décisionnelle
 
 ## 🧩 Objectif général
 
