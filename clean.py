@@ -28,12 +28,10 @@ print("Pourcentage de valeurs manquantes dans les trois fichiers : {:.2f}%".form
 
 
 # remplacer les valeurs manquantes dans la colonne 'country' par 'Unknown'
-summer_df['Country'] = summer_df['Country'].fillna('Unknown')
+summer_df['Country'] = summer_df['Country'].fillna('UKNOWN')
 
 # ajout des PIB et du nombre d'habitant directement depuis le csv
 
-
-# to do
 
 total_missing_after_cleanning = country_df.isnull().sum().sum() + summer_df.isnull().sum().sum() + winter_df.isnull().sum().sum()
 print("Nombre total de valeurs manquantes dans les trois fichiers : ", total_missing_after_cleanning)
