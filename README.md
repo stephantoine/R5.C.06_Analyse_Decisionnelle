@@ -1,6 +1,3 @@
-Renommer le .gitignore.example en .gitignore
-
-
 # R5.C.06 - Analyse Décisionnelle
 
 ## 🧩 Objectif général
